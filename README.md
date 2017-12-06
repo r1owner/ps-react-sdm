@@ -6,5 +6,6 @@ A library of React components based on Pluralsight "Creating Reusable React Comp
 ```
 npm install ps-react-sdm
 ```
+
 # Docs
 [Component documentation] (http://r1owner.github.io/ps-react-sdm/)
