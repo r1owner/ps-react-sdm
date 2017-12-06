@@ -8,4 +8,4 @@ npm install ps-react-sdm
 ```
 
 # Docs
-[Component documentation] (http://r1owner.github.io/ps-react-sdm/)
+[Component documentation](http://r1owner.github.io/ps-react-sdm/)
