@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import iconPaths from './selection.js'; //the file exported from icoMoon
+//import iconPaths from './icons.js'; //the file exported from icoMoon
 
 function getPath(iconName) {
     const icon = iconPaths.icons.find(icon => icon.properties.name === iconName);
