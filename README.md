@@ -1,6 +1,6 @@
 # React components POC
 
-A library of React components based on Pluralsight "Creating Reusable React Components" on Pluralsight.
+A library of React components based on Pluralsight "Creating Reusable React Components" on Pluralsight
 
 ## Install
 ```
